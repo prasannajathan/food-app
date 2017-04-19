@@ -1,0 +1,14 @@
+page-restaurant-details{
+    .non-veg-item, .veg-item{
+        display:inline-block;
+        width:10px;
+        height:10px;
+        
+    }
+    .veg-item{
+        background: green;
+    }
+    .non-veg-item{
+        background: red;
+    }
+}

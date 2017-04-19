@@ -1,0 +1,81 @@
+<ion-header>
+  <ion-navbar color="dark">
+    <ion-title>
+      Home
+    </ion-title>
+    <ion-buttons end>
+      <button ion-button (click)="logout()">
+        <ion-icon name="log-out"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <!--<ion-slides pager>
+
+  <ion-slide style="background-color: green">
+    <h2>Slide 1</h2>
+  </ion-slide>
+
+  <ion-slide style="background-color: blue">
+    <h2>Slide 2</h2>
+  </ion-slide>
+
+  <ion-slide style="background-color: red">
+    <h2>Slide 3</h2>
+  </ion-slide>
+
+</ion-slides> -->
+  <div id="map"></div>
+  
+  <ion-item padding>
+    <h3>Welcome inside, {{username}}!</h3>
+    <h4>Your Email is: {{email}}</h4>
+  </ion-item>
+
+
+
+<!--<ion-searchbar (input)="search($event)"></ion-searchbar>-->
+<ion-item>
+        <ion-input type="text" placeholder="Search a restaurant..." (input)="searchRestaurantDB($event, searchKey)"></ion-input>
+</ion-item>
+
+<ion-list>
+<ion-card *ngFor="let restaurant of restaurants" padding  (click)="goToDetails(restaurant.id)">
+
+  <ion-thumbnail item-left>
+    <img src="{{ restaurant.imgUrl}}"/>
+  </ion-thumbnail>
+  <ion-card-content>
+    <ion-card-title>
+      {{restaurant.name}} - {{restaurant.id}}
+    </ion-card-title>
+    Area: {{restaurant.area}}, Locality: {{restaurant.locality}}
+    <p>{{restaurant.cuisine}}</p>
+
+      <ion-row>
+       <ion-col>Price: {{restaurant.costForTwoString}}</ion-col>
+       <ion-col>Rating: {{restaurant.avg_rating }}</ion-col>
+       <ion-col>Min Delivery time: {{restaurant.minDeliveryTime}}</ion-col>
+       <ion-col>Delivery charge: {{restaurant.cityDeliveryCharge }}</ion-col>
+      </ion-row>
+
+      delivery charge: {{restaurant.deliveryCharge}}
+      minimum order: {{restaurant.minimumOrder}}
+      <p>Veg: {{restaurant.veg }}</p>
+      <p>CloseTime; {{restaurant.nextCloseTime}}</p>
+  </ion-card-content>
+
+</ion-card>
+
+<!--< ion-item *ngFor="let restaurant of restaurants" (click)="goToDetails(user.login)">
+      <ion-avatar item-left>
+        <img [src]="user.avatar_url">
+      </ion-avatar>
+       {{restaurant.name}}
+      <ion-icon name="arrow-forward" item-right></ion-icon>
+    </button>-->
+</ion-list>
+
+</ion-content>

@@ -1,0 +1,1582 @@
+{
+  "id": 9911,
+  "name": "Fresh Pressery Cafe",
+  "uuid": "0366c0f8-2ead-417a-8f6f-129fb98652b1",
+  "city": "Bangalore",
+  "area": "Central Bangalore",
+  "avg_rating": "3.8",
+  "total_ratings": "923",
+  "cloudinaryImageId": "tafwqwg8efi6700yhzb1",
+  "cuisine": [
+    "Italian",
+    "Healthy Food",
+    "Salads",
+    "French"
+  ],
+  "recommended": 0,
+  "costForTwo": 1000,
+  "costForTwoString": "$$$$",
+  "deliveryCharge": 0,
+  "minimumOrder": 0,
+  "opened": 1,
+  "categories": [
+    {
+      "name": "Quickbites",
+      "menu": [
+        {
+          "id": 1840649,
+          "name": "Salmon Rolls",
+          "description": "Salmon rolls stuffed with cream cheese and capers.",
+          "cloudinaryImageId": "nzymp1amp2pddea0c3zh",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 27500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840650,
+          "name": "Retro Prawn Cocktail",
+          "description": "Medium sized prawns in a sriracha mayo.",
+          "cloudinaryImageId": "afjvp8p5jxhyky2dwuup",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 250,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        }
+      ],
+      "id": 255147
+    },
+    {
+      "name": "Sandwiches",
+      "menu": [
+        {
+          "id": 1840651,
+          "name": "Avocado & Tomato Sandwich",
+          "description": "Comes with in- house salad.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 250,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 218034,
+              "group_name": "Bread (Any 1)",
+              "choices": [
+                {
+                  "id": 1214376,
+                  "name": "Whole Wheat Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214377,
+                  "name": "Brown Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214378,
+                  "name": "Multigrain Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 4,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840652,
+          "name": "Avocado & Chicken Sandwich",
+          "description": "Comes with in- house salad.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 280,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 218035,
+              "group_name": "Bread (Any 1)",
+              "choices": [
+                {
+                  "id": 1214380,
+                  "name": "Whole Wheat Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214381,
+                  "name": "Brown Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214382,
+                  "name": "Multigrain Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 7,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 1840653,
+          "name": "Roasted Chicken Sandwich",
+          "description": "Comes with in- house salad.",
+          "cloudinaryImageId": "gs0f4rjqa7cfpekce4bc",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 250,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 218036,
+              "group_name": "Bread (Any 1)",
+              "choices": [
+                {
+                  "id": 1214384,
+                  "name": "Whole Wheat Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214385,
+                  "name": "Multigrain Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214386,
+                  "name": "Brown Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 10,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 1840654,
+          "name": "Smoked Salmon Sandwich",
+          "description": "Comes with in- house salad.",
+          "cloudinaryImageId": "l8xzk3msdyywf9chnekh",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 350,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 218037,
+              "group_name": "Bread (Any 1)",
+              "choices": [
+                {
+                  "id": 1214387,
+                  "name": "Whole Wheat Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214388,
+                  "name": "Multigrain Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214389,
+                  "name": "Brown Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840862,
+          "name": "Veg Roasted Bell Peppers & Zucchini Sandwich",
+          "description": "",
+          "cloudinaryImageId": "tzxzdmngdtw9adoqwqzz",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 250,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 218038,
+              "group_name": "Bread (Any 1)",
+              "choices": [
+                {
+                  "id": 1214392,
+                  "name": "White Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214390,
+                  "name": "Whole Wheat Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                },
+                {
+                  "id": 1214391,
+                  "name": "Multigrain Bread",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        }
+      ],
+      "id": 255149
+    },
+    {
+      "name": "Salads",
+      "menu": [
+        {
+          "id": 1840655,
+          "name": "Grilled Fig & Arugula Salad",
+          "description": "With caramelized walnuts and onions with crumbled blue cheese.",
+          "cloudinaryImageId": "eg2v5uhrk8swtlyubyhb",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 300,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 376238,
+              "group_name": "Extras",
+              "choices": [
+                {
+                  "id": 1485496,
+                  "name": "Extra Cheese",
+                  "price": 50,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        },
+        {
+          "id": 1840656,
+          "name": "Fresh Watermelon & Feta Salad",
+          "description": "",
+          "cloudinaryImageId": "o3zqrwdfm6ogwmrmx9in",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 250,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 376239,
+              "group_name": "Extras",
+              "choices": [
+                {
+                  "id": 1485496,
+                  "name": "Extra Cheese",
+                  "price": 50,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840657,
+          "name": "Roasted Beetroot & Quinoa Salad",
+          "description": "With feta cheese and walnuts.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 250,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 376240,
+              "group_name": "Extras",
+              "choices": [
+                {
+                  "id": 1485496,
+                  "name": "Extra Cheese",
+                  "price": 50,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840658,
+          "name": "Tandoori Chicken Salad",
+          "description": "With pomegranate dressing.",
+          "cloudinaryImageId": "qcwog0fnjeijk91p45hw",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 350,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 376241,
+              "group_name": "Extras",
+              "choices": [
+                {
+                  "id": 1485496,
+                  "name": "Extra Cheese",
+                  "price": 50,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        },
+        {
+          "id": 1840659,
+          "name": "Cambodian Prawn Salad",
+          "description": "",
+          "cloudinaryImageId": "xqx5drkuz8ifmhspv53t",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 350,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 376242,
+              "group_name": "Extras",
+              "choices": [
+                {
+                  "id": 1485496,
+                  "name": "Extra Cheese",
+                  "price": 50,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        }
+      ],
+      "id": 255151
+    },
+    {
+      "name": "Mains",
+      "menu": [
+        {
+          "id": 1840660,
+          "name": "Veg Spaghetti Aglio E Olio",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 250,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840661,
+          "name": "Chicken Breast with Sun Dried Tomatoes",
+          "description": "Served with a side of our house salad.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 300,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 217914,
+              "group_name": "Add Ons",
+              "choices": [
+                {
+                  "id": 1213749,
+                  "name": "Veg Spaghetti Pasta",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 1840662,
+          "name": "Chicken Spaghetti Aglio E Olio",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 300,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840663,
+          "name": "Norwegian Seared Salmon",
+          "description": "Served with a side of our house salad.",
+          "cloudinaryImageId": "zuhmtfabj9e5o8bngiau",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 450,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [
+            {
+              "group_id": 217915,
+              "group_name": "Add Ons",
+              "choices": [
+                {
+                  "id": 1213750,
+                  "name": "Veg Spaghetti Pasta",
+                  "price": 0,
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "order": 0
+                }
+              ],
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "minAddons": 0,
+              "order": 0
+            }
+          ],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840664,
+          "name": "Prawns Spaghetti Aglio E Olio",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 350,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        }
+      ],
+      "id": 255153
+    },
+    {
+      "name": "Desserts",
+      "menu": [
+        {
+          "id": 1840665,
+          "name": "Chia Seed Pudding",
+          "description": "",
+          "cloudinaryImageId": "xtulqq4tcfisobp5kae6",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 200,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 1840666,
+          "name": "Dark Chocolate Brownies.",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 2,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 150,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 3558304,
+          "name": "Bircher Muesli",
+          "description": "Muesli with skimmed milk and dried fruits.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 150,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        }
+      ],
+      "id": 255155
+    },
+    {
+      "name": "Cleanses",
+      "menu": [
+        {
+          "id": 1840667,
+          "name": "1 Day Cleanse (6 Bottles) Fruit Based",
+          "description": "Green flush, yellow hydration, black magic, after party, capple, almond milk.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 128200,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840668,
+          "name": "3 Day Cleanse (18 Bottles) Fruit Based",
+          "description": "Green flush, yellow hydration, black magic, after party, capple, almond milk.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 367600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840669,
+          "name": "5 Day Cleanse (30 Bottles) Fruit Based",
+          "description": "Green flush, yellow hydration, black magic, after party, capple, almond milk.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 538600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840670,
+          "name": "1 Day Cleanse (6 Bottles) Vegetable Based",
+          "description": "Green flush, red purifier, super green, purple saver, yellow hydration, almond milk.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 128200,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840671,
+          "name": "3 Day Cleanse (18 Bottles) Vegetable Based",
+          "description": "Green flush, red purifier, super green, purple saver, yellow hydration, almond milk.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 367600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 1840672,
+          "name": "5 Day Cleanse (30 Bottles) Vegetable Based",
+          "description": "Green flush, red purifier, super green, purple saver, yellow hydration, almond milk.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 538600,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        }
+      ],
+      "id": 255157
+    },
+    {
+      "name": "Cold Pressed Juice",
+      "menu": [
+        {
+          "id": 1840673,
+          "name": "Black Magic (250 ml)",
+          "description": "Activated charcoal, alkaline water, lime, honey.",
+          "cloudinaryImageId": "ny0uhrwjfqyvcaq3vt9w",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        },
+        {
+          "id": 1840674,
+          "name": "Black Magic (400 ml)",
+          "description": "Activated charcoal, alkaline water, lime, honey.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840675,
+          "name": "After Party (250 ml)",
+          "description": "Watermelon, mint, lime.",
+          "cloudinaryImageId": "auch5nfoaf8yhhapelzi",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840676,
+          "name": "After Party (400 ml)",
+          "description": "Watermelon, mint, lime.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840677,
+          "name": "Yellow Hydration (250 ml)",
+          "description": "Pineapple, coconut water, chia seeds.",
+          "cloudinaryImageId": "jbzwfar6c7ftesy9t6ss",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        },
+        {
+          "id": 1840678,
+          "name": "Yellow Hydration (400 ml)",
+          "description": "Pineapple, coconut water, chia seeds.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 5,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840679,
+          "name": "Capple (250 ml)",
+          "description": "Carrot, apple, ginger.",
+          "cloudinaryImageId": "vmbqnxjligweojzawoq0",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840680,
+          "name": "Capple (400 ml)",
+          "description": "Carrot, apple, ginger.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840681,
+          "name": "Almond Milk (250 ml)",
+          "description": "Vanilla, sea salt, honey and cinnamon.",
+          "cloudinaryImageId": "ytnewufqiouj9twq8q9j",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 4,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        },
+        {
+          "id": 1840682,
+          "name": "Almond Milk (400 ml)",
+          "description": "Vanilla, sea salt, honey and cinnamon.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840683,
+          "name": "Green Flush (250 ml)",
+          "description": "Doodhi, apple, spinach, celery, cucumber, ginger, lemon.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840684,
+          "name": "Green Flush (400 ml)",
+          "description": "Doodhi, apple, spinach, celery, cucumber, ginger, lemon.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840685,
+          "name": "Purple Saver (250 ml)",
+          "description": "Beetroot, carrot, ginger, lemon, celery, spinach.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840686,
+          "name": "Purple Saver (400 ml)",
+          "description": "Beetroot, carrot, ginger, lemon, celery, spinach.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840687,
+          "name": "Red Purifier (250 ml)",
+          "description": "Beetroot, tomato, apple, cucumber, ginger, lemon.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840688,
+          "name": "Red Purifier (400 ml)",
+          "description": "Beetroot, tomato, apple, cucumber, ginger, lemon.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840689,
+          "name": "Super Green (250 ml)",
+          "description": "Kale, spinach, celery, green apple, parsley, green bell pepper, ginger, lemon.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1840690,
+          "name": "Super Green (400 ml)",
+          "description": "Kale, spinach, celery, green apple, parsley, green bell pepper, ginger, lemon.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1872455,
+          "name": "Cold Cusher (250 ml)",
+          "description": "Orange and ginger.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 0,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 100,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "outOfStockMessage": "Out of Stock",
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        }
+      ],
+      "id": 255159
+    },
+    {
+      "name": "Smoothies",
+      "menu": [
+        {
+          "id": 1998421,
+          "name": "Fit Protein Smoothie",
+          "description": "Whey protein, banana, honey, Flax seeds, peanut butter, skimmed milk, unsweetened coco",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 120,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1998422,
+          "name": "Cheeky Monkey",
+          "description": "Banana, mint, spinach, dark chocolate, almonds, dates, himalayan pink salt and vanilla.",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 120,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 7,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        }
+      ],
+      "id": 277668
+    }
+  ],
+  "deliveryTime": 35,
+  "minDeliveryTime": 35,
+  "maxDeliveryTime": 45,
+  "slugs": {
+    "restaurant": "fresh-pressery-cafe-cbd-central-bangalore",
+    "city": "bangalore"
+  },
+  "tmpClosed": false,
+  "type": "F",
+  "cityState": "Karnataka",
+  "address": "4, Good Earth Store, Former Cinnamon Building, Walton Road, Lavelle Road, Bangalore",
+  "postalCode": 5601,
+  "latLong": [
+    "12.9717340",
+    "77.5981620"
+  ],
+  "cityDeliveryCharge": 30,
+  "threshold": 250,
+  "bannerMessage": "",
+  "locality": "CBD",
+  "parentId": 1405,
+  "nextCloseTime": [
+    2016,
+    12,
+    21,
+    19,
+    30
+  ],
+  "delivery_fee_type": 0,
+  "unserviceable": false,
+  "new": false,
+  "veg": false,
+  "select": false,
+  "favorite": false
+}

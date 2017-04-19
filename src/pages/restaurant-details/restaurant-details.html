@@ -1,0 +1,102 @@
+<ion-header>
+  <ion-navbar>
+    <!--{{restaurant?.}}-->
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <div>
+<!--backgroundImage                   fav icon           search icon-->
+<ion-thumbnail item-left>
+    <img src="../assets/images/{{restaurant?.cloudinaryImageId}}.jpg"/>
+  </ion-thumbnail>
+  {{restaurant?.name}}  
+  price: {{restaurant?.costForTwoString}}
+  minutes: {{restaurant?.deliveryTime}} 
+</div>
+
+<div>
+  <ion-segment [(ngModel)]="categories">
+    <!--[(ngModel)]="restaurant.categories"-->
+    <ion-segment-button value="recommended">
+      Recommended
+    </ion-segment-button>
+    <ion-segment-button value="" *ngFor="let category of restaurant?.categories">
+      {{category?.name}}
+    </ion-segment-button>
+  </ion-segment>
+</div>
+
+<div [ngSwitch]="categories">
+  <ion-list *ngSwitchCase="'recommended'">
+    <ion-item>
+      <h2>Ruby</h2>
+    </ion-item>
+  </ion-list>
+
+  <div>  
+      <ion-item>
+      <ion-label>show vegetarian dishes</ion-label>
+      <ion-toggle value="foo" checked="false"></ion-toggle>
+    </ion-item>
+    </div>
+
+  <ion-list><!-- *ngSwitchCase=""-->
+    <ion-item>
+      <h2><!--{{category}}--></h2>
+    <div *ngFor="let category of restaurant?.categories">
+      <strong>{{category.name}}</strong>
+
+      <!-- If subCategories doesn't exit -->
+      <div ng-if="!category?.subCategories">
+        <div *ngFor="let menu of category?.menu; let i=index" style="color:blue;padding-left:5px;">
+
+          <span [ngClass]="{'veg-item': menu.isVeg==1, 'non-veg-item': menu.isVeg==0 || menu.isVeg == 2 }"></span>
+
+          {{menu.name}}  
+          <div style="float:right;color:red;">₹{{menu.price | currency:'INR':false:'4.2-2'}}</div>
+
+          <div>
+              <ion-icon name="ios-add-circle-outline" (click)="addFood($event, menu.id)"></ion-icon>
+              <span class="item-count"><!--{{menuId.foodCount}}--></span>
+              <ion-icon name="ios-remove-circle-outline"(click)="minusFood($event)"></ion-icon>
+          </div>
+
+        </div>
+      </div>
+      <!-- If subCategories are available -->
+      <div *ngFor="let subcategory of category?.subCategories">
+        {{subcategory.name}} 
+        <div *ngFor="let menu of subcategory?.menu; let i=index" style="color:blue;padding-left:5px;">
+          <span [ngClass]="{'veg-item': menu.isVeg==1, 'non-veg-item': menu.isVeg==0 || menu.isVeg == 2 }"></span>
+          {{menu.name}} 
+          <div class="" style="clear:both;">
+
+            <div style="color:red;">{{menu.price | currency:'INR':true}}</div>
+            
+            <!--<div>
+              <ion-icon name="ios-add-circle-outline" (click)="addFood($event)">+</ion-icon>
+              <span class="item-count">{{foodCount}}</span>
+              <ion-icon name="ios-remove-circle-outline"(click)="minusFood($event)">-</ion-icon>
+            </div>-->
+
+          </div>
+        </div>
+      </div>
+    <ion-row>------</ion-row>
+    </div>
+
+    </ion-item>
+  </ion-list>
+</div>
+
+  <ion-list>
+    <!--
+     <ion-item>
+      <ion-label>Following</ion-label>
+      <ion-badge item-right>{{user?.following}}</ion-badge>
+    </ion-item>
+    -->
+  </ion-list>    
+</ion-content>

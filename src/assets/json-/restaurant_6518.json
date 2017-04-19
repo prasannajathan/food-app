@@ -1,0 +1,6146 @@
+{
+  "id": 6518,
+  "name": "Rolls Kitchen",
+  "uuid": "ee928e95-8ff8-45e5-8c02-34aab094e36b",
+  "city": "Bangalore",
+  "area": "Shantinagar",
+  "avg_rating": "3.8",
+  "total_ratings": "3471",
+  "cloudinaryImageId": "t7i7zoql3zgs7kxw57zb",
+  "cuisine": [
+    "Fast Food"
+  ],
+  "recommended": 0,
+  "costForTwo": 200,
+  "costForTwoString": "$$",
+  "deliveryCharge": 0,
+  "minimumOrder": 0,
+  "opened": 1,
+  "categories": [
+    {
+      "name": "Quick Bites",
+      "subCategories": [
+        {
+          "id": 159640,
+          "name": "Finger Foods",
+          "menu": [
+            {
+              "id": 1102579,
+              "name": "French Fries",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102580,
+              "name": "Aloo Tikki Cutlet (3 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102581,
+              "name": "Chilli Garlic Potato Pops",
+              "description": "",
+              "cloudinaryImageId": "srer838alwg1pdrwtqmw",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 2,
+              "itemScore": 6,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102582,
+              "name": "Masala Fries",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102583,
+              "name": "Egg (2 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 30,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102584,
+              "name": "Chicken Nuggets (6 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "jnkw6bsxsmfywbrpirdi",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 100,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 2,
+              "itemScore": 5,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102585,
+              "name": "Chicken Cutlets (2 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 159641,
+          "name": "Veg Kati Rolls",
+          "menu": [
+            {
+              "id": 1102586,
+              "name": "Aloo Tikiya Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92393,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571782,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571860,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571821,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102587,
+              "name": "Cheese Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92394,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571783,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571861,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571822,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102588,
+              "name": "Mix Veg Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92395,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571862,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571823,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571784,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102589,
+              "name": "Baby Corn Roll",
+              "description": "",
+              "cloudinaryImageId": "hnpbrdqqm37rcdkd8aht",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92396,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571863,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571824,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571785,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 7,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102590,
+              "name": "Chilli Paneer Roll",
+              "description": "",
+              "cloudinaryImageId": "wvvzedqs8zkkeroet3dx",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92397,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571864,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571825,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571786,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 13,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 1
+            },
+            {
+              "id": 1102591,
+              "name": "Mushroom Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92398,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571826,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571787,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571865,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102592,
+              "name": "Tawa Paneer",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92399,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571827,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571788,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571866,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        },
+        {
+          "id": 159642,
+          "name": "Egg Kati Rolls",
+          "menu": [
+            {
+              "id": 1102593,
+              "name": "Egg Roll",
+              "description": "",
+              "cloudinaryImageId": "falrwhiebpx8rdbd6llx",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92400,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571789,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571867,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571828,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 10,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102594,
+              "name": "Double Egg Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92401,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571790,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571868,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571829,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 7,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102595,
+              "name": "Egg & Cheese Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92402,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571791,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571830,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571869,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102596,
+              "name": "Egg & Chilli Paneer Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92403,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571831,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571792,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571870,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102597,
+              "name": "Double Egg Chilli Paneer Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 100,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92404,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571793,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571832,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571871,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102598,
+              "name": "Boiled Egg & Mayonnaise Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92405,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571833,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571794,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571872,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102599,
+              "name": "Egg & Veg Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92406,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571834,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571795,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571873,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102600,
+              "name": "Triple Egg Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92407,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571874,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571835,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571796,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102601,
+              "name": "Egg Paneer Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92408,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571875,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571836,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571797,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102602,
+              "name": "Double Egg Veg Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92409,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571798,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571876,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571837,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        },
+        {
+          "id": 159643,
+          "name": "Liver Kati Rolls",
+          "menu": [
+            {
+              "id": 1102603,
+              "name": "Liver Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92410,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571799,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571838,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571877,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102604,
+              "name": "Egg Liver Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92411,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571839,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571878,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571800,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102605,
+              "name": "Double Egg Liver Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92412,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571840,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571801,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571879,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102606,
+              "name": "Double Liver Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92413,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571841,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571880,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571802,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102607,
+              "name": "Double Egg Double Liver Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 9500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92414,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571842,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571881,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571803,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        },
+        {
+          "id": 159644,
+          "name": "Chicken Kati Rolls",
+          "menu": [
+            {
+              "id": 1102608,
+              "name": "Tawa Fried Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92415,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571804,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571843,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571882,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102609,
+              "name": "Chicken Kaati Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92416,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571805,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571844,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571883,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102610,
+              "name": "Spicy Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92417,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571884,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571806,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571845,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102611,
+              "name": "Chicken Tikka Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92418,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571885,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571807,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571846,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 5,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102612,
+              "name": "Chicken Hariyali Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92419,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571886,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571808,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571847,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102613,
+              "name": "Chicken Garlic Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 100,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92420,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571848,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571887,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571809,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102614,
+              "name": "Pepper Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92421,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571849,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571888,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571810,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102615,
+              "name": "Special Egg Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "oqbaolajit0guv97djpb",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92422,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571850,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571889,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571811,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 13,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 1
+            },
+            {
+              "id": 1102616,
+              "name": "Special Double Egg Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92423,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571851,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571812,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571890,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 7,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102617,
+              "name": "Special Double Egg Paneer Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92424,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571852,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571813,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571891,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102618,
+              "name": "Special Chicken Cheesee Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 100,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92425,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571853,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571814,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571892,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102619,
+              "name": "Special Double Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 100,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92426,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571815,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571893,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571854,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102620,
+              "name": "Special Paneer Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 100,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92427,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571816,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571894,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571855,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102621,
+              "name": "Special Single Egg Double Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 110,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92428,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571817,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571895,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571856,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102622,
+              "name": "Special Single Egg Double Paneer Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 110,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92429,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571896,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571857,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571818,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102623,
+              "name": "Special Double Egg Double Chicken Roll",
+              "description": "",
+              "cloudinaryImageId": "zmerhpq1hie20afrrgl7",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 120,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92430,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571897,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571858,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571819,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 6,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 1
+            },
+            {
+              "id": 1102624,
+              "name": "Special Double Egg Double Paneer Roll",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 120,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92431,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571859,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571898,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571820,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        },
+        {
+          "id": 159645,
+          "name": "Burgers",
+          "menu": [
+            {
+              "id": 1102625,
+              "name": "Aloo Tikki Burger",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92432,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571913,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571927,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571899,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102626,
+              "name": "Veg Cheese Burger",
+              "description": "",
+              "cloudinaryImageId": "ln8cqs9wbohbpefvqmad",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92433,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571928,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571900,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571914,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102627,
+              "name": "Paneer Burger",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92434,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571929,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571901,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571915,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102628,
+              "name": "Egg Burger",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92435,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571930,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571916,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571902,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102629,
+              "name": "Egg & Cheese Burger",
+              "description": "",
+              "cloudinaryImageId": "jpv1poss5m0glwji7jvj",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92436,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571931,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571917,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571903,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102630,
+              "name": "Spicy Chicken Burger",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92437,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571904,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571918,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571932,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102631,
+              "name": "Chicken Cheese Burger",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92438,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571905,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571919,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571933,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        },
+        {
+          "id": 159646,
+          "name": "Sandwiches",
+          "menu": [
+            {
+              "id": 1102632,
+              "name": "Sweet Corn Sandwich",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92439,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571906,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571920,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571934,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102633,
+              "name": "Cheese Tomato Capsicum",
+              "description": "",
+              "cloudinaryImageId": "nuzx4klrhisihhx3odsi",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92440,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571935,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571907,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571921,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102634,
+              "name": "Aloo Tikki Sandwich",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92441,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571922,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571908,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571936,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102635,
+              "name": "Egg Sandwich",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 2,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92442,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571923,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571909,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571937,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102636,
+              "name": "Chicken Mayo Sandwich",
+              "description": "",
+              "cloudinaryImageId": "ezgggs7ljygljw7kagac",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92443,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571938,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571910,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571924,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 6,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102637,
+              "name": "Chicken Tikka Sandwich",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92444,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571939,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571911,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571925,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 1102638,
+              "name": "Chicken Nuggets Sandwich",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92445,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571940,
+                      "name": "Egg",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571912,
+                      "name": "Mayonnaise",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571926,
+                      "name": "Cheese",
+                      "price": 2500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        }
+      ],
+      "id": 159639
+    },
+    {
+      "name": "Main Course",
+      "menu": [
+        {
+          "id": 1102641,
+          "name": "Pasta Cream & Cheesee",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 120,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 1102642,
+          "name": "Pasta Arrabbiata",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 120,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 1102643,
+          "name": "Pasta Cream & Cheese Chicken",
+          "description": "",
+          "cloudinaryImageId": "u5ug20bekdncqj8da5ws",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 150,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 1102644,
+          "name": "Pasta Arrabbiata Chicken",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 150,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        }
+      ],
+      "id": 159649
+    },
+    {
+      "name": "Beverages",
+      "subCategories": [
+        {
+          "id": 159655,
+          "name": "Thick Shakes",
+          "menu": [
+            {
+              "id": 1102684,
+              "name": "Oreo Shake",
+              "description": "",
+              "cloudinaryImageId": "dgedtuua5tz6xcgtckwa",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92446,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571941,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572081,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572053,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571997,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571969,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572025,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 6,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 0
+            },
+            {
+              "id": 1102685,
+              "name": "Chocolate Shake",
+              "description": "",
+              "cloudinaryImageId": "q9hycrrxflkrboscz2hg",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 5500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92447,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571942,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571998,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571970,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572082,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572054,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572026,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 0
+            },
+            {
+              "id": 1102686,
+              "name": "Strawberry Shake",
+              "description": "",
+              "cloudinaryImageId": "kzv6yeixwtuogahv5wua",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92448,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571999,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571943,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571971,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572055,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572083,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572027,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102687,
+              "name": "Butter Scotch Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 5500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92449,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572084,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571972,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572056,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572028,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 5720,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571944,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102688,
+              "name": "Litchi Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92450,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572085,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571973,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572057,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572029,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572001,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571945,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102689,
+              "name": "Caramel Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 6500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92451,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571974,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572058,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572086,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571946,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572002,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572030,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102690,
+              "name": "Black Currant Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92452,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571975,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572059,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572087,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571947,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572003,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572031,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102691,
+              "name": "Vanilla Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92453,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572060,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571976,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571948,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572088,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572004,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572032,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102692,
+              "name": "Mango Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92454,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571977,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572061,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571949,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572089,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572005,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572033,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102693,
+              "name": "Snickers Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 6500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92455,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572062,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571978,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572090,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572034,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571950,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572006,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102694,
+              "name": "Choco Banana Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92456,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572063,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571979,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572091,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571951,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572035,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572007,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102695,
+              "name": "Galaxy Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92457,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572064,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571980,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571952,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572092,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572008,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572036,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 159656,
+          "name": "Smoothies",
+          "menu": [
+            {
+              "id": 1102696,
+              "name": "Oreo Smoothie",
+              "description": "",
+              "cloudinaryImageId": "gzcssl7hjqn58glsfovi",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92458,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572065,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571953,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572093,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571981,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572009,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572037,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 2,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102697,
+              "name": "Chocolate Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 8500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92459,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571954,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572066,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572010,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572094,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571982,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572038,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102698,
+              "name": "Strawberry Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92460,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572067,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572011,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572095,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571983,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572039,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571955,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102699,
+              "name": "Butter Scotch Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92461,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572012,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571984,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571956,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572068,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572040,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572096,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102700,
+              "name": "Litchi Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92462,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572013,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571957,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571985,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572069,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572041,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572097,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102701,
+              "name": "Caramel Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 9500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92463,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572070,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572014,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572098,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571986,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571958,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572042,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102702,
+              "name": "Black Currant Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92464,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572071,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572015,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571959,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572099,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571987,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572043,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102703,
+              "name": "Vanilla Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92465,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572016,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572072,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571988,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571960,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572100,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572044,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102704,
+              "name": "Mango Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 80,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92466,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572017,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572101,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572073,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571989,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571961,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572045,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102705,
+              "name": "Snickers Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 9500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92467,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572102,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571962,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572074,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572046,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571990,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572018,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102706,
+              "name": "Choco Banana Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 90,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92468,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572103,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572075,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571963,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571991,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572047,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572019,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102707,
+              "name": "Galaxy Smoothie",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 100,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92469,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571964,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572048,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572104,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572076,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571992,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572020,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 159657,
+          "name": "Crushers",
+          "menu": [
+            {
+              "id": 1102708,
+              "name": "Chocolate Crusher",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92470,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571965,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572105,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572049,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572077,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571993,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572021,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102709,
+              "name": "Oreo Crusher",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 70,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92471,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571966,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572106,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572078,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572050,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571994,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572022,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102710,
+              "name": "Caramel Crusher",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 8500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92472,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 571967,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572107,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572079,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572051,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571995,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572023,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102711,
+              "name": "Butterscotch Crusher",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 92473,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 572080,
+                      "name": "Butter Scotch Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572052,
+                      "name": "Dark Choco Chips",
+                      "price": 10,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571996,
+                      "name": "Caramel Sauce",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 571968,
+                      "name": "Vanilla Ice Cream",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572108,
+                      "name": "Nuts",
+                      "price": 20,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 572024,
+                      "name": "Chocolate Sauce",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 159658,
+          "name": "Health Classics",
+          "menu": [
+            {
+              "id": 1102712,
+              "name": "Cold Milk",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 3500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102713,
+              "name": "Cold Boost",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 4500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102714,
+              "name": "Cold Horlicks",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 4500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102715,
+              "name": "Cold Coffee",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 60,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102716,
+              "name": "Banana Milk Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 50,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102717,
+              "name": "Dates Milk Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 5500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102718,
+              "name": "Dry Fruits & Nuts Milk Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102719,
+              "name": "Almond Milk Shake",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102720,
+              "name": "Coffee Frappe",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 159659,
+          "name": "Hot Beverages",
+          "menu": [
+            {
+              "id": 1102721,
+              "name": "Large Hot Coffee",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 30,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102722,
+              "name": "Hot Chocolate",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 40,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102723,
+              "name": "Hot Boost",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 3500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102724,
+              "name": "Hot Milk",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 30,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102725,
+              "name": "Hot Horlicks",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 3500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102726,
+              "name": "Large Hot Tea",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 30,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102727,
+              "name": "Hot Badam Milk",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 30,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 159660,
+          "name": "Lassi",
+          "menu": [
+            {
+              "id": 1102728,
+              "name": "Sweet Lassi",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 30,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102729,
+              "name": "Mango Lassi",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 40,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102730,
+              "name": "Strawberry Lassi",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 40,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102731,
+              "name": "Vanilla Lassi",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 40,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102732,
+              "name": "Black Currant Lassi",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 40,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102733,
+              "name": "Litchi Lassi",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 40,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 159661,
+          "name": "Coolers",
+          "menu": [
+            {
+              "id": 1102734,
+              "name": "Lemon Iced Tea",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 3500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102735,
+              "name": "Fresh Lime Juice",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 30,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102736,
+              "name": "Pulpy Grape Juice",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 40,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1102737,
+              "name": "Citrus Blue Crush",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 4500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 0,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        }
+      ],
+      "id": 159654
+    }
+  ],
+  "deliveryTime": 35,
+  "minDeliveryTime": 35,
+  "maxDeliveryTime": 45,
+  "slugs": {
+    "restaurant": "rolls-kitchen-shanthi-nagar-central-bangalore",
+    "city": "bangalore"
+  },
+  "tmpClosed": false,
+  "type": "F",
+  "cityState": "Karnataka",
+  "address": "Opposite St. Joseph College, Longford Road, Shanti Nagar, Bangalore",
+  "postalCode": 0,
+  "latLong": [
+    "12.962034",
+    "77.5973220008"
+  ],
+  "cityDeliveryCharge": 30,
+  "threshold": 250,
+  "bannerMessage": "",
+  "locality": "Shanthi Nagar",
+  "parentId": 781,
+  "nextCloseTime": [
+    2016,
+    12,
+    21,
+    22,
+    0
+  ],
+  "delivery_fee_type": 0,
+  "unserviceable": false,
+  "new": false,
+  "veg": false,
+  "select": false,
+  "favorite": false
+}

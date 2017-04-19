@@ -1,0 +1,1349 @@
+{
+  "id": 5938,
+  "name": "Burger King",
+  "uuid": "08cc618c-2261-45c1-839f-71f5d9335142",
+  "city": "Bangalore",
+  "area": "Central Bangalore",
+  "avg_rating": "3.7",
+  "total_ratings": "4751",
+  "cloudinaryImageId": "k9h82h7ef01n1hib9uu2",
+  "cuisine": [
+    "American",
+    "Fast Food"
+  ],
+  "recommended": 0,
+  "costForTwo": 50000,
+  "costForTwoString": "$$$",
+  "deliveryCharge": 0,
+  "minimumOrder": 0,
+  "opened": 1,
+  "categories": [
+    {
+      "name": "Kings Treat",
+      "menu": [
+        {
+          "id": 3547336,
+          "name": "2 Bk Veggie Burgers + 2 Large Fries",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 19700,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 3547337,
+          "name": "2 Bk Grill Chicken + 2 Large Fries",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 20700,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 3547338,
+          "name": "2 Bk Veggie + 2 Veg Whopper + 2 King Fries + 6 Pcs Veggie Strips + 2 Pepsi Pet Bottle (600Ml)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 0,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 54900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "outOfStockMessage": "Out of Stock",
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 3547339,
+          "name": "2 Bk Grill Chicken + 2 Chicken Whopper + 2 King Fries + 6 Pcs Veggie Strips + 2 Pepsi Pet Bottle (600Ml)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 0,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 54900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "outOfStockMessage": "Out of Stock",
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        }
+      ],
+      "id": 514604
+    },
+    {
+      "name": "New Launch",
+      "menu": [
+        {
+          "id": 2605451,
+          "name": "Chicken Wings (2 Pcs)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 6500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "43622",
+                "name": "Choice of Preparation",
+                "variations": [
+                  {
+                    "name": "Grilled",
+                    "price": 0,
+                    "id": "117376",
+                    "inStock": 1,
+                    "isVeg": 0,
+                    "default": 1
+                  },
+                  {
+                    "name": "Crispy",
+                    "price": 0,
+                    "id": "117377",
+                    "inStock": 1,
+                    "isVeg": 0,
+                    "default": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 1
+        },
+        {
+          "id": 2605452,
+          "name": "Chicken Wings (5 Pcs)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 9900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": [
+              {
+                "group_id": "43623",
+                "name": "Choice of Preparation",
+                "variations": [
+                  {
+                    "name": "Grilled",
+                    "price": 0,
+                    "id": "117378",
+                    "inStock": 1,
+                    "isVeg": 0,
+                    "default": 1
+                  },
+                  {
+                    "name": "Crispy",
+                    "price": 0,
+                    "id": "117379",
+                    "inStock": 1,
+                    "isVeg": 0,
+                    "default": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 5,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 1
+        },
+        {
+          "id": 2889251,
+          "name": "Chicken Grilled Wings (15 Pcs)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 36900,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 1,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 3263048,
+          "name": "Veg Bigg Boss Whopper Burger",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 16900,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 3263049,
+          "name": "Chicken Bigg Boss Whopper Burger",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 17900,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 3263050,
+          "name": "Mutton Bigg Boss Whopper Burger",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 0,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 22900,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 2,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        }
+      ],
+      "id": 363756
+    },
+    {
+      "name": "Burgers",
+      "subCategories": [
+        {
+          "id": 142660,
+          "name": "Veg",
+          "menu": [
+            {
+              "id": 990780,
+              "name": "Veg Whopper Burger",
+              "description": "",
+              "cloudinaryImageId": "qzosazootbrpfgnyjzmc",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 11900,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76373,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483380,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483393,
+                      "name": "Extra Patty",
+                      "price": 4000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483367,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 1,
+              "itemScore": 10,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 990782,
+              "name": "Bk Veggie Burger",
+              "description": "",
+              "cloudinaryImageId": "cth4bh93u8eoofo68rxx",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76375,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483369,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483395,
+                      "name": "Extra Patty",
+                      "price": 2000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483382,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 990783,
+              "name": "Crispy Veg Burger",
+              "description": "",
+              "cloudinaryImageId": "fkqfumvptu3dx6anrkxb",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 3500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76376,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483370,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483383,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483396,
+                      "name": "Extra Patty",
+                      "price": 2000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 1,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 1
+            },
+            {
+              "id": 990784,
+              "name": "Paneer King Melt Burger",
+              "description": "",
+              "cloudinaryImageId": "m1w8zqxufoccljgzdujz",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 11900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76377,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483371,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483397,
+                      "name": "Extra Patty",
+                      "price": 7000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483384,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 1,
+              "itemScore": 1,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 990785,
+              "name": "Veg Chilli Cheese Melt Burger",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 8900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76378,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483385,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483372,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483398,
+                      "name": "Extra Patty",
+                      "price": 4000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        },
+        {
+          "id": 142661,
+          "name": "Non-Veg",
+          "menu": [
+            {
+              "id": 990786,
+              "name": "Chicken Whopper Burger",
+              "description": "",
+              "cloudinaryImageId": "hlzj0quigqaz8i9uh3em",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 12900,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76379,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483373,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483399,
+                      "name": "Extra Patty",
+                      "price": 7000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483386,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 1
+            },
+            {
+              "id": 990788,
+              "name": "Chicken Tandoor Grill Burger",
+              "description": "",
+              "cloudinaryImageId": "dkdtdd6rhjk0eigdggey",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 13900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76381,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483388,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483375,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483401,
+                      "name": "Extra Patty",
+                      "price": 7000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 7,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 990789,
+              "name": "Bk Grilled Chicken Burger",
+              "description": "",
+              "cloudinaryImageId": "b4tjqw1geyrizevjik7d",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 8500,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76382,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483376,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483402,
+                      "name": "Extra Patty",
+                      "price": 3000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483389,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 12,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            },
+            {
+              "id": 990790,
+              "name": "Crispy Chicken Burger",
+              "description": "",
+              "cloudinaryImageId": "nlrajkwqrgg2x99lcp1w",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 4900,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76383,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483403,
+                      "name": "Extra Patty",
+                      "price": 3000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483377,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483390,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 0,
+              "itemScore": 15,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 1
+            },
+            {
+              "id": 990792,
+              "name": "Mutton Whopper Burger",
+              "description": "",
+              "cloudinaryImageId": "op3iqxhuyu1ao9yvtanq",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 17900,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [
+                {
+                  "group_id": 76385,
+                  "group_name": "Add Ons",
+                  "choices": [
+                    {
+                      "id": 483379,
+                      "name": "Extra Mayo",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483405,
+                      "name": "Extra Patty",
+                      "price": 10000,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    },
+                    {
+                      "id": 483392,
+                      "name": "Extra Cheese",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": null,
+                      "order": 0
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1,
+                  "minAddons": 0,
+                  "order": 0
+                }
+              ],
+              "cropChoices": 1,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 1
+            }
+          ]
+        }
+      ],
+      "id": 142659
+    },
+    {
+      "name": "Cravers",
+      "subCategories": [
+        {
+          "id": 142657,
+          "name": "Veg",
+          "menu": [
+            {
+              "id": 990770,
+              "name": "Fiery Rings (2 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 2900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 990771,
+              "name": "Fiery Rings (4 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "kzx5v8howtlisjf1s5bf",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 1,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 4900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 7,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 990772,
+              "name": "Veggie Strips (3 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 2900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 990773,
+              "name": "Veggie Strips (6 Pcs)",
+              "description": "",
+              "cloudinaryImageId": "yfoi1nfvslocpauxajto",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 4900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 0,
+              "itemScore": 3,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 0
+            },
+            {
+              "id": 1810583,
+              "name": "Fries (71 gms) (Regular)",
+              "description": "",
+              "cloudinaryImageId": "pqerbg3gzrecavfceqaj",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 6500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 2,
+              "itemScore": 11,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 0
+            },
+            {
+              "id": 1810584,
+              "name": "Fries (116 gms) (Medium)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 2,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1810585,
+              "name": "Fries (159) (Large)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 1,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 8500,
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 2,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 1,
+              "showMC": 0
+            }
+          ]
+        },
+        {
+          "id": 260278,
+          "name": "Non-Veg",
+          "menu": [
+            {
+              "id": 1872866,
+              "name": "Chicken Fries (5pcs)",
+              "description": "",
+              "cloudinaryImageId": "",
+              "recommended": 0,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 7900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 2,
+              "itemScore": 2,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            },
+            {
+              "id": 1872867,
+              "name": "Chicken Fries (9pcs)",
+              "description": "",
+              "cloudinaryImageId": "vhpdoaftcwaoj2fls9gk",
+              "recommended": 1,
+              "inStock": 1,
+              "isSpicy": 0,
+              "isVeg": 0,
+              "enabled": 1,
+              "displayOrder": 0,
+              "price": 13900,
+              "variants_new": {
+                "exclude_list": [],
+                "variant_groups": []
+              },
+              "maxAddons": -1,
+              "maxFreeAddons": -1,
+              "addons": [],
+              "cropChoices": 2,
+              "itemScore": 4,
+              "itemDiscount": 0,
+              "isPopular": 0,
+              "showMC": 0
+            }
+          ]
+        }
+      ],
+      "id": 142656
+    },
+    {
+      "name": "Beverages",
+      "menu": [
+        {
+          "id": 1118216,
+          "name": "Chocolate Shake (275 Ml)",
+          "description": "",
+          "cloudinaryImageId": "htxtmkr4t2n2f6zy700o",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 8500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 6,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        },
+        {
+          "id": 1118217,
+          "name": "Mango Shake (275 Ml)",
+          "description": "",
+          "cloudinaryImageId": "ndg4xd21d91c15vn8qkj",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 8500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 3,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        },
+        {
+          "id": 1118218,
+          "name": "Strawberry Shake (275 Ml)",
+          "description": "",
+          "cloudinaryImageId": "ywolnq0ktwa1g68sj91i",
+          "recommended": 1,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 8500,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1118219,
+          "name": "Ice Bolt Orange (300 ml)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 3900,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1118220,
+          "name": "Ice Bolt Blue (300 ml)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 3900,
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 2,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1118224,
+          "name": "Mineral Water",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 1,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 2700,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "cropChoices": 0,
+          "itemScore": 0,
+          "itemDiscount": 0,
+          "isPopular": 0,
+          "showMC": 0
+        },
+        {
+          "id": 1118223,
+          "name": "Pepsi Pet Bottle (600 ml)",
+          "description": "",
+          "cloudinaryImageId": "",
+          "recommended": 0,
+          "inStock": 0,
+          "isSpicy": 0,
+          "isVeg": 1,
+          "enabled": 1,
+          "displayOrder": 0,
+          "price": 3800,
+          "variants_new": {
+            "exclude_list": [],
+            "variant_groups": []
+          },
+          "maxAddons": -1,
+          "maxFreeAddons": -1,
+          "addons": [],
+          "outOfStockMessage": "Out of Stock",
+          "cropChoices": 0,
+          "itemScore": 7,
+          "itemDiscount": 0,
+          "isPopular": 1,
+          "showMC": 0
+        }
+      ],
+      "id": 162693
+    }
+  ],
+  "deliveryTime": 35,
+  "minDeliveryTime": 35,
+  "maxDeliveryTime": 45,
+  "slugs": {
+    "restaurant": "burger-king-central-bangalore",
+    "city": "bangalore"
+  },
+  "tmpClosed": false,
+  "type": "F",
+  "cityState": "Karnataka",
+  "address": "Unit no 111/4, and 8/2, Asha Gallary, Opposite to west side , Commercial Street, Bangalore-  5600001",
+  "postalCode": 560001,
+  "latLong": [
+    "12.982855",
+    "77.606721"
+  ],
+  "cityDeliveryCharge": 30,
+  "threshold": 250,
+  "bannerMessage": "",
+  "locality": "Opposite To West Side",
+  "parentId": 166,
+  "nextCloseTime": [
+    2016,
+    12,
+    21,
+    23,
+    0
+  ],
+  "delivery_fee_type": 0,
+  "unserviceable": false,
+  "new": false,
+  "veg": false,
+  "select": false,
+  "favorite": false
+}
